@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import FeatureCard from "@/Components/ContentHome/Content/FeatureCard";
+import FeatureCard from "@/components/ContentHome/Content/FeatureCard";
 import {Heart,Moon,Dumbbell,Music,Film,Brush,Mountain,Gamepad2,Utensils,} from "lucide-react";
 import axios from "axios";
 import { PREFERENCE_API } from "@/API/apicalls"; 

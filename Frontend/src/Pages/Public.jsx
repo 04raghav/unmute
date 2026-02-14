@@ -1,7 +1,7 @@
 import React from 'react';
-import Nav from '@/Components/Nav';
-import PublicContent from '@/Components/ContentPublic/PublicContent';
-import Sidebar from '@/Components/Sidebar';
+import Nav from '@/components/Nav';
+import PublicContent from '@/components/ContentPublic/PublicContent';
+import Sidebar from '@/components/Sidebar';
 
 const Public = () => {
   return (

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Nav from "../Components/Nav"; // adjust the path to where your Nav is
+import Nav from "../components/Nav"; // adjust the path to where your Nav is
 import axios from "axios";
 import { SIGNUP_API, LOGIN_API } from "@/API/apicalls";
 import { useNavigate } from "react-router-dom";

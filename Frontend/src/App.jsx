@@ -7,7 +7,7 @@ import { Route, Routes } from 'react-router-dom'
 import { useAppStore } from './Storage/store'
 import axios from 'axios'
 import { VERIFY_API } from "@/API/apicalls";
-import FlippingBook from "./Components/FlippingBook"
+import FlippingBook from "./components/FlippingBook"
 import Public from './Pages/Public'
 import Preference from "./Pages/Preference"
 import MyProfile from './Pages/MyProfile'

@@ -1,7 +1,7 @@
 import React, { useState,useEffect } from "react";
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent } from "@/components/ui/Card";
 import { LogOut, Home } from "lucide-react";
 import { useAppStore } from "@/Storage/store";
 import { useNavigate } from "react-router-dom";

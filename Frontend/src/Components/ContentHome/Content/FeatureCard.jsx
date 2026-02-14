@@ -1,5 +1,5 @@
 import React from "react";
-import { Card } from "@/Components/ui/Card"; // adjust path if needed
+import { Card } from "@/components/ui/Card"; // adjust path if needed
 
 export default function FeatureCard({ 
   title, 
